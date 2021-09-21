@@ -1,0 +1,27 @@
+.collection {
+  text-align: center;
+}
+.collection p {
+  color: #e76f51;
+}
+.collection hr {
+  color: #e76f51;
+  background: #e76f51;
+  padding: 1px;
+  border: none;
+  width: 100px;
+}
+.collectionImages {
+  display: flex;
+  justify-content: space-around;
+}
+.collectionImg {
+  margin: 40px 0;
+}
+.collectionImg img {
+  width: 400px;
+}
+.colorChange {
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+}

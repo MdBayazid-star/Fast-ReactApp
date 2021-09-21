@@ -1,0 +1,32 @@
+.cartContainer {
+  max-width: 80%;
+  margin: 30px auto;
+}
+.Cart-Container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.cartContainer h1 {
+  text-align: center;
+}
+.cartContainer h1 > span {
+  color: #e76f51;
+}
+.Cart {
+  border: 1px solid gray;
+  padding: 15px;
+  text-align: center;
+}
+.Cart img {
+  width: 100px;
+}
+.Cart p {
+  color: gray;
+}
+.Cart h1 {
+  color: #23a6f0;
+}
+.Cart h3 {
+  color: #e76f51;
+}

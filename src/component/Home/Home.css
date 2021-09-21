@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #264653;
+  color: #fff;
+  padding: 20px 0;
+}
+.homeContent button {
+  padding: 0.7rem 1.5rem;
+  background: #e76f51;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
